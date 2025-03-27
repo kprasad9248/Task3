@@ -95,7 +95,7 @@ header .navbar {
 .hero-section {
     min-height: 100vh;
     /*background: #3b141c;*/
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./nimage.png/nimage02.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/assets/images/nimage02.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
